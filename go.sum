@@ -1,0 +1,17 @@
+github.com/Kong/go-pdk v0.3.0 h1:w377yRRuJZNMbYBu4WC4Vi0o3sMTB/MkB8ovy1Rh1kg=
+github.com/Kong/go-pdk v0.3.0/go.mod h1:SgpwOhzZ7/44ETAm756laAIHGEAp0l2Vf9P0aRzeQDQ=
+github.com/Kong/go-pdk v0.3.1-0.20200124232046-5a18fd130a56 h1:sXFPPQggTSCWy4XDpaBNUL3FUl59unvFZbfvle/QucE=
+github.com/Kong/go-pdk v0.3.1-0.20200124232046-5a18fd130a56/go.mod h1:SgpwOhzZ7/44ETAm756laAIHGEAp0l2Vf9P0aRzeQDQ=
+github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5 h1:rFw4nCn9iMW+Vajsk51NtYIcwSTkXr+JGrMd36kTDJw=
+github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5/go.mod h1:SkGFH1ia65gfNATL8TAiHDNxPzPdmEL5uirI2Uyuz6c=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/gojektech/heimdall v1.0.0 h1:0Kz52HazR5OKP77547TQUvO6DEo669roni7s1iz+NoI=
+github.com/gojektech/heimdall v5.0.2+incompatible h1:mfGLnHNTKN7b1OMTO4ZvL3oT2P13kqTTV7owK7BZDck=
+github.com/gojektech/heimdall v5.0.2+incompatible/go.mod h1:8hRIZ3+Kz0r3GAFI9QrUuvZht8ypg5Rs8schCXioLOo=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
